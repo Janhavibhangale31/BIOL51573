@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 
-# prompt the user to input their name
-name = input ("enter your name: ")
+#prompt the user for their name 
 
-# say 'hello world'
-print ('hello',name)
+name = input("Please enter your name: ")
 
-# print greeting with the user's name
-print ('hello', name)
+# two ways to print hello world
+print("hello world")
+print('hello world')
 
+# print personalized greeting, using the name from input() above
+print("hello,", name, "I hope you have a great day.")
 
+# some math
+print(7+7)
+print((7+7)*9)
