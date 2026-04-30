@@ -1,0 +1,95 @@
+---
+name: "Janhavi Bhangale"
+position: "M.S. Biomedical Engineering Student"
+address: "Fayetteville, Arkansas"
+email: "janhavibhangale31@gmail.com"
+phone: "(479) 268-1326"
+linkedin: "linkedin.com/in/JanhaviBhangale"
+output: vitae::awesomecv
+---
+
+# Education
+
+## Master of Science in Biomedical Engineering  
+**University of Arkansas, Fayetteville**  
+August 2025 – Present  
+
+Relevant Coursework: Regenerative Medicine, Biomanufacturing & Quality Management, R Programming, Tissue Engineering, Programming for Biologists, Design & Analysis of Experiments  
+
+---
+
+## Master of Science in Biotechnology  
+**Northeastern University, Canada**  
+September 2022 – December 2023  
+
+Relevant Coursework: Molecular & Cell Biology, Biostatistics, Protein Chemistry, Cell Culture, Pharmaceutical Microbiology  
+
+---
+
+## Bachelor of Technology in Biotechnology Engineering  
+**Pune University, India**  
+July 2016 – May 2021  
+
+Relevant Coursework: Biotherapeutics, Stem Cells & Regenerative Medicine, Bioseparations, Applied Chemistry, Immunology, Biostatistics  
+
+---
+
+# Skills
+
+**Laboratory Techniques:**  
+Aseptic microbiology techniques, DNA extraction, gel electrophoresis, PCR, Western blotting, SDS-PAGE, HPLC, LC-MS, CRISPR, molecular cloning, bacterial transformation, column chromatography  
+
+**Programming & Tools:**  
+Python, R, MATLAB, JMP, Blender, Data Visualization, Microsoft Office  
+
+---
+
+# Research Experience
+
+## Graduate Researcher  
+**University of Arkansas**  
+August 2025 – December 2025  
+
+- Conducted comparative analysis of RNA-based and CRISPR-based gene modulation strategies (siRNA, antisense oligonucleotides, CRISPRi/a, base and prime editing) for skeletal muscle disorders, focusing on Duchenne muscular dystrophy.  
+- Analyzed preclinical data from mouse, humanized, and non-human primate models to evaluate efficacy, durability, and safety of gene regulation approaches, including AAV-mediated delivery systems.  
+- Assessed transcriptional modulation outcomes such as dystrophin restoration and utrophin upregulation using quantitative metrics from qRT-PCR, Western blot, histology, and functional assays.  
+- Compared transient and durable gene regulation strategies, emphasizing non-double-strand break CRISPR platforms.  
+
+---
+
+## Industrial Biotechnology Trainee  
+**Mitcon Biopharma**  
+October 2018 – May 2019  
+
+- Simulated industrial-scale microbial production pipelines using genetic engineering and fermentation processes.  
+- Executed molecular cloning workflows including restriction digestion, ligation, transformation, and PCR, validating insertions via agarose gel electrophoresis.  
+- Performed sterile tissue culture procedures including aseptic inoculation, callus induction, and plantlet regeneration.  
+
+---
+
+# Academic Projects
+
+## Nanobot-Based Drug Delivery for Small Cell Lung Cancer  
+**Northeastern University**  
+
+- Designed KarkinoBOT, a nanobot-based targeted drug delivery system using Chromogranin A biomarkers.  
+- Proposed site-specific chemotherapy to minimize damage to healthy tissues and reduce side effects.  
+- Developed a mock preclinical model, dosage framework, and cost analysis to evaluate feasibility.  
+
+---
+
+## Inhibition of Lactic Acid Bacteria Phages by Biosurfactants  
+**Pune University**  
+
+- Engineered experimental protocols to evaluate biosurfactant inhibition of LAB phages.  
+- Conducted literature-based hypothesis development on biosurfactant–phage interactions.  
+- Developed quantitative assays to assess phage infectivity and Lactobacillus growth kinetics.  
+
+---
+
+## Microbial Utilization of LAB from Dairy Waste Using Sodium Alginate Beads  
+**Mitcon Biopharma**  
+
+- Isolated and characterized Lactobacillus strains using biochemical and carbohydrate utilization assays.  
+- Engineered immobilized bacterial systems using sodium alginate bead entrapment.  
+- Demonstrated enhanced continuous lactic acid fermentation and sustainable bioprocess outcomes.  
